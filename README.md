@@ -1,4 +1,4 @@
-# sc2profile-twitch-extension-frontend
+# @sc2pte/frontend-legacy
 
 This is a legacy repository of [StarCraft II Profile Twitch Extension](https://sc2pte.lukem.net/) frontend app. It is not updated or maintained any more.
 
