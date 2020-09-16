@@ -6,6 +6,6 @@ For a current version see [https://github.com/sc2pte/panel-frontend](https://git
 
 ## License
 
-Code is available under MIT license. See [LICENSE](https://raw.githubusercontent.com/lukemsc/sc2profile-twitch-extension-frontend/master/LICENSE) for more information.
+See [LICENSE](https://raw.githubusercontent.com/sc2pte/frontend-legacy/master/LICENSE) for more information.
 
 Graphic assets included in the repository are not subject to the license above.
